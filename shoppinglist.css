@@ -1,0 +1,26 @@
+#toomany{
+  color: #FF762E;
+}
+
+#user{
+  color: #FF8C8C;
+  background-color:#C3E0FF;
+  font-family: 'Caveat', cursive;
+}
+
+#remove{
+  color: #FF8C8C;
+  background-color:#C3E0FF;
+  font-family: 'Caveat', cursive;
+}
+
+#butstyle{
+  color: #6BB2FF;
+  font-family: 'Caveat', cursive;
+  border-radius: 10px;
+}
+
+body{
+  color: #FF762E;
+  font-family: 'Caveat', cursive;
+}
